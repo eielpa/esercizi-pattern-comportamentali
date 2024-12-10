@@ -1,9 +1,9 @@
 Behavioural patterns
 
 V  ChainOfResponsibility
-X  Command
-X  Iterator
-X  Mediator
+V  Command
+V  Iterator
+V  Mediator
 X  Memento
 X  Observer
 X  State
