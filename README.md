@@ -4,9 +4,9 @@ V  ChainOfResponsibility
 V  Command
 V  Iterator
 V  Mediator
-X  Memento
-X  Observer
-X  State
-X  Strategy
+V  Memento
+V  Observer
+V  State
+V  Strategy
 X  Template method
 X  Visitor
