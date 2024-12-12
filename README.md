@@ -8,5 +8,6 @@ V  Memento
 V  Observer
 V  State
 V  Strategy
-X  Template method
-X  Visitor
+V  Template method
+V  Interpreter
+V  Visitor
